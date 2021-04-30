@@ -1,2 +1,3 @@
 # Animal-Detection
-Detects dog and cat  Photos
+#CNN Model
+Detects dog and cat photos using CNN 
